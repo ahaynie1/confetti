@@ -8,7 +8,8 @@ body {
       }
       
       h1 {
-        background: red;
+        font-family: 'Sharpie-Black';
+        font-size: 10em;
       }
       
 }
