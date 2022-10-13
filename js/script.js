@@ -7,5 +7,5 @@ let confetti = new Confetti("confetti");
 
 //  Optionalize it
 confetti.destroyTarget(false);
-confetti.setSize(3);
+confetti.setSize(10);
 confetti.setCount(1);
